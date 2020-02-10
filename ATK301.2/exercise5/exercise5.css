@@ -1,0 +1,31 @@
+/* This is my new stylesheet */
+h1{
+color: #000000;
+background-color: #003344;
+}
+
+.bluetext{
+color: #000000;
+background-color: #003344;
+}
+
+.greentext{
+color: #000000;
+background-color: #005500;
+}
+
+
+
+
+ h2{
+ color: #000066;
+}
+
+h3{
+  background-color: #ff6600;
+}
+
+
+.redtext {
+color: #ff0000;
+}
