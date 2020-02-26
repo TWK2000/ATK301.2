@@ -1,0 +1,35 @@
+h1 {
+font-size: 100px;
+text-align: center;
+width: 500px;
+border-top: 3px solid #000000
+margin: 0;
+padding: 0;
+}
+
+body {
+  font-family: impact;
+  background-color: #E5CE37;
+  background-image: url(Lakeith.jpg);
+  background-repeat: no-repeat;
+}
+
+.redbold {
+  color: #ff0000
+}
+
+.pinkbold {
+  color: #E915C6
+}
+
+p {
+  font-size: 35px;
+  text-align: center;
+  width: 500px;
+  padding-top: 400px;
+}
+
+footer {
+  text-align: center;
+  width: 500px
+}
